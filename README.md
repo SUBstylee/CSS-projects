@@ -13,3 +13,7 @@
 06:CSS Blog (mobile responsive)
 
 07:CSS Image Gallery (mobile responsive)
+
+08:CSS Blog
+
+09:CSS Styled Form
