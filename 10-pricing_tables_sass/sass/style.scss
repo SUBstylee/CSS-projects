@@ -125,6 +125,15 @@ a.btn-primary:hover{
     }
 }
 
+footer{
+  display:block;
+  padding-top:100px;
+  position:relative;
+  clear:both;
+  color: #444;
+  text-align: center;
+}
+
 @media(max-width:768px){
     @import "mobile.scss";
 }

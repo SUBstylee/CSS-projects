@@ -135,6 +135,16 @@ a.btn-primary:hover {
   padding: 12px !important;
 }
 
+/* line 128, E:/backup/desk/wd/06_css_projects/pricing_tables_sass/sass/style.scss */
+footer {
+  display: block;
+  padding-top: 100px;
+  position: relative;
+  clear: both;
+  color: #444;
+  text-align: center;
+}
+
 @media (max-width: 768px) {
   /* line 1, E:/backup/desk/wd/06_css_projects/pricing_tables_sass/sass/_mobile.scss */
   #container {
