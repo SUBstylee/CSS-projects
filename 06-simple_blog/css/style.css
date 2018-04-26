@@ -1,0 +1,46 @@
+/*
+border color: #bdc3c7
+date color: #3498db
+h2 color: #2c3e50
+
+font: source sans pro
+*/
+body{
+    max-width: 700px;
+    width: 80%;
+    margin: 20px auto;
+    border: 20px solid #bdc3c7;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+article{
+    margin: 20px;
+}
+
+.date{
+    color: #3498db;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.title{
+    text-transform: capitalize;
+    color: #2c3e50;
+    font-size: 2.0rem;
+    font-weight: 800;
+}
+
+article p:nth-of-type(1){
+    border-left: 5px solid #bdc3c7;
+    padding-left: 5px;
+}
+
+hr { 
+  border: 0; 
+  height: 2px; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
