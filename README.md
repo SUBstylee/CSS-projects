@@ -19,3 +19,7 @@
 09:CSS Styled Form
 
 10:SASS Pricing Table (CSS created using SASS)
+
+11:CSS Animations - Car (uses a bit of jQuery for start and stop function)
+
+12:Portfolio (will be updating this often.  used some jQuery for effects, and BootStrap for layout and navbar)
