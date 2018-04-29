@@ -23,3 +23,5 @@
 11:CSS Animations - Car (uses a bit of jQuery for start and stop function)
 
 12:Portfolio (will be updating this often.  used some jQuery for effects, and BootStrap for layout and navbar)
+
+13:LESS Newsletter (CSS created using LESS)
