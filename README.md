@@ -25,3 +25,9 @@
 12:Portfolio (will be updating this often.  used some jQuery for effects, and BootStrap for layout and navbar)
 
 13:LESS Newsletter (CSS created using LESS)
+
+14:Orbit (CSS animation)
+
+15:Image Gallery (BootStrap image gallery)
+
+16:Joke Landing Page (BootStrap landing page)
