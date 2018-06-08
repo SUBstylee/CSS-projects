@@ -41,7 +41,7 @@ fieldset legend{
 fieldset{
     padding: 40px;
     border: 1px solid #aaa;
-    background-image: url(img/blue_background.jpg);
+    background-image: url(/img/blue_background.jpg);
 }
 
 label{
@@ -49,7 +49,7 @@ label{
     border-bottom: none;
     font-size: 12px;
     text-transform: uppercase;
-    background-image: url(img/red_background.jpg);
+    background-image: url(/img/red_background.jpg);
     display: block;
     width: 50%;
     padding: 2%;
@@ -57,7 +57,7 @@ label{
 
 input[type="submit"]{
     background: none;
-    background: url(img/button_background.jpg) repeat-x;
+    background: url(/img/button_background.jpg) repeat-x;
     height: 40px;
     border: 1px solid #777;
     padding: 0 40px;
