@@ -41,7 +41,7 @@ fieldset legend{
 fieldset{
     padding: 40px;
     border: 1px solid #aaa;
-    background-image: url(/img/blue_background.jpg);
+    background-image: url(../img/blue_background.jpg);
 }
 
 label{
