@@ -68,4 +68,23 @@ $(document).ready(function(){
     }, 500);
     return false;
     });
+    
+/* Maps */
+    
+    var map = new GMaps({
+      div: '.map',
+      lat: 22.6773,
+      lng: 120.4,
+      zoom: 12,
+    });
+    
+    map.addMarker({
+      lat: 22.673,
+      lng: 120.36,
+      title: 'Kaohsiung',
+      infoWindow: {
+          content: '<p>Our Corporate Office</p>'
+        }
+    });
+    
 });

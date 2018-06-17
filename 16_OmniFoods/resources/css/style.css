@@ -472,11 +472,11 @@ cite img{
 .plan-box ul li{padding: 5px 0;}
 
 /*--------------------------------------*/
-/*Sign Up*/
+/*Form*/
 /*--------------------------------------*/
 
 .contact-form{
-    width: 50%;
+    width: 90%;
     margin: 0 auto;
 }
 
@@ -495,6 +495,30 @@ textarea{
 input[type="checkbox"]{margin: 10px 5px 10px 0;}
 
 *:focus{outline: none;}
+
+.map-box{
+    width: 100%;
+    height: 560px;
+    position: relative;
+}
+
+.map{
+    width: 100%;
+    height: 560px;
+    position: relative;
+    z-index: 0;
+}
+
+.form-box{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    z-index: 10;
+    height: 560px;
+    width: 50%;
+    padding-top: 40px;
+}
 
 /*--------------------------------------*/
 /*Footer*/
